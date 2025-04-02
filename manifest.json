@@ -1,0 +1,9 @@
+{
+    "name": "Log Spam Remover",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Suppress ONLY the "PlatformUserID '' failed to parse!" log" 
+
+    "dependencies": [
+    ]
+}
